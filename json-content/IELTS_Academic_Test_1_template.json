@@ -1,0 +1,146 @@
+{
+  "exam_id": "IELTS_Academic_Test_1",
+  "title": "IELTS Academic - Test 1",
+  "examsv2_title": "Mock IELTS Academic Test 1",
+  "time_allowed": 170,
+  "sections": [
+    {
+      "sectionType": "RUE",
+      "title": "Reading",
+      "time_allowed": 60,
+      "parts": [
+        {
+          "partId": "passage1",
+          "title": "Passage 1",
+          "instructions": "Read the text below and answer questions 1-13.",
+          "text": "[IELTS Reading Passage 1 text would go here]",
+          "items": [
+            {
+              "itemId": "1",
+              "itemType": "multipleChoice",
+              "question": "What is the main purpose of the first paragraph?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "To introduce the historical context"
+                },
+                {
+                  "id": "B",
+                  "text": "To present a problem that needs solving"
+                },
+                {
+                  "id": "C",
+                  "text": "To describe the methodology of a study"
+                },
+                {
+                  "id": "D",
+                  "text": "To summarize previous research findings"
+                }
+              ],
+              "correct_answer": "A",
+              "explanation": "<b>A. To introduce the historical context</b> 📚 <br> The first paragraph typically sets the scene by providing background information and historical context for the topic being discussed."
+            },
+            {
+              "itemId": "2",
+              "itemType": "trueFalseNotGiven",
+              "question": "The study mentioned was conducted over a period of five years.",
+              "correct_answer": "FALSE",
+              "explanation": "<b>FALSE</b> ⏱️ <br> The text states the research was conducted over three years, not five."
+            }
+          ]
+        },
+        {
+          "partId": "passage2",
+          "title": "Passage 2",
+          "instructions": "Read the text below and answer questions 14-26.",
+          "text": "[IELTS Reading Passage 2 text would go here]",
+          "items": []
+        },
+        {
+          "partId": "passage3",
+          "title": "Passage 3",
+          "instructions": "Read the text below and answer questions 27-40.",
+          "text": "[IELTS Reading Passage 3 text would go here]",
+          "items": []
+        }
+      ]
+    },
+    {
+      "sectionType": "LST",
+      "title": "Listening",
+      "time_allowed": 30,
+      "audioUrl": "https://example.com/ielts-listening-test-1.mp3",
+      "parts": [
+        {
+          "partId": "LSTp1",
+          "title": "Section 1",
+          "instructions": "Questions 1-10. Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "items": [
+            {
+              "itemId": "1",
+              "itemType": "inputText",
+              "question": "Name:",
+              "correctAnswers": ["John Smith"],
+              "explanation": "<b>John Smith</b> 👤 <br> The speaker clearly states his name at the beginning of the conversation."
+            }
+          ]
+        },
+        {
+          "partId": "LSTp2",
+          "title": "Section 2",
+          "instructions": "Questions 11-20.",
+          "items": []
+        },
+        {
+          "partId": "LSTp3",
+          "title": "Section 3",
+          "instructions": "Questions 21-30.",
+          "items": []
+        },
+        {
+          "partId": "LSTp4",
+          "title": "Section 4",
+          "instructions": "Questions 31-40.",
+          "items": []
+        }
+      ]
+    },
+    {
+      "sectionType": "WRT",
+      "title": "Writing",
+      "time_allowed": 60,
+      "parts": [
+        {
+          "partId": "WRTp1Academic",
+          "title": "Task 1 (Academic)",
+          "instructions": "Write at least 150 words summarizing the information in the chart below.",
+          "text": "[Chart/graph description would go here]",
+          "items": [
+            {
+              "itemId": "writingTask1",
+              "itemType": "essay",
+              "question": "Summarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+              "wordCount": 150,
+              "explanation": "This is an academic writing task requiring description of visual data."
+            }
+          ]
+        },
+        {
+          "partId": "WRTp2",
+          "title": "Task 2",
+          "instructions": "Write at least 250 words on the following topic.",
+          "text": "Some people believe that technology has made our lives easier, while others think it has made us more dependent and less self-sufficient. Discuss both views and give your own opinion.",
+          "items": [
+            {
+              "itemId": "writingTask2",
+              "itemType": "essay",
+              "question": "Discuss both views and give your own opinion.",
+              "wordCount": 250,
+              "explanation": "This is an argumentative essay task requiring discussion of different perspectives."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
