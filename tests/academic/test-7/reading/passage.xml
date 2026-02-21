@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOC><copyright>Exam English Ltd - All rights reserved</copyright><config>	<random>no</random>	<randomiseChoices>no</randomiseChoices>	<showQuestionNumbers>yes</showQuestionNumbers>	<sectionsOnSamePage>no</sectionsOnSamePage></config>  <title>IELTS Academic Reading part 7</title>  <reading><![CDATA[   <p align="center"><strong>Energy monitoring software</strong></p>
+
+<p><b>A</b>&nbsp;&nbsp;Life is improving for managers at the 2,700 stores of Sainsbury, one of the world's largest supermarket groups. A program from PA, a big software company, will make a boring job much simpler: collecting data about each shop's energy consumption, whether from refrigeration, lights or air conditioning. The automated data collection is part of Sainsbury's plan to reduce by 50% emissions of greenhouse gases from existing shops by 2019. </p>
+<p><b>B</b>&nbsp;&nbsp;Sainsbury and PA may well be pioneers, but they are not alone. While governments discuss levels of carbon emissions, many companies have already started to make reductions, or are at least preparing to – leading to more and more software firms offering products to help. If predictions are correct the market for carbon-management software could soon become as large as those for other important business applications such as enterprise application software (EAS) programs, a $7 billion market last year. </p>
+<p><b>C</b>&nbsp;&nbsp;Many companies have measured energy consumption for some time in an attempt to reduce running costs. Other firms have tracked emissions of different types in order to comply with pollution regulations. In recent times, public pressure has led to more companies publishing emissions data in their annual reports or to organizations like the Carbon Monitoring Project. However, most firms will need to upgrade from the basic tools, such as spreadsheets, they they have been using. </p>
+<p><b>D</b>&nbsp;&nbsp;Things are changing, in spite of the recession, says Jim Scarfe, CEO of CarbonReduct, a consultancy. Increased energy costs and new regulations are all pushing companies to monitor their emissions and do so with appropriate software, he states. In the USA, for example, the Carbon Reduction Plan will come into force next year. Among other things, it requires firms that use more than 8,000 megawatt-hours of electricity per annum to evaluate and report the energy they consume. </p>
+<p><b>E</b>&nbsp;&nbsp;Expecting an increase in demand, many software-publishers have moved into the market, mostly with internet-based services. In a recent survey SRP Research, another consultancy, listed no fewer than 183 suppliers.&nbsp; Some emphasise reporting, others compliance and still others improving business processes. There are well-established companies, such as EnergySoft and LMG. Many start-ups, such as CarbonModel and GreenData, have appeared. Even Large software firms like Oracle and IBM have also moved into the market. </p>
+<p><b>F</b>&nbsp;&nbsp;For the time being, the needs of most firms are simple: making sure that energy data is collected and can be audited. But in the years ahead, this will change, predicts Susanna Sierra of SRP. Companies will need software that collects energy data automatically, while helping them to find the best ways to reduce emissions and allowing them to manage other resources, such as water. </p>
+<p><b>G</b>&nbsp;&nbsp;Scarfe and Sierra both expect that Oracle and SAP, which already dominate most types of business software, will control the market in this area, too, because it is a good match for their other products. These giants also have the resources to buy the best technology. In June SAP purchased Green Standards, a start-up. Oracle is thought to be planning a similar purchase soon. But they have other rivals. LMG has been buying companies selling environmental software. Some expect great things from X8, a start-up founded by Jana Novic, who pioneered EAS software. </p>
+<p><b>H</b>&nbsp;&nbsp;All this interest gives an idea of how important the business of monitoring environmental performance&nbsp; is likely to become. Scarfe recently suggested that in time it could even be as big a market as financial accounting. </p>
+]]></reading>
+ <instructions><![CDATA[Read about energy tracking software and answer the questions.]]></instructions>
+<item><text><![CDATA[<i>Match each heading to the most suitable paragraph.</i><br /><br />Paragraph A]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='0'  feedback='Incorrect'>Huge industrial growth predicted</choice>
+<choice correct='0'  feedback='Incorrect'>A rosy outlook for carbon management systems</choice>
+<choice correct='0'  feedback='Incorrect'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='0'  feedback='Incorrect'>Basic software will not be enough</choice>
+<choice correct='0'  feedback='Incorrect'>A fight for a slice of the market</choice>
+<choice correct='1'  feedback='Correct'>New software for a boring job</choice>
+<choice correct='0'  feedback='Incorrect'>The major players</choice></choices>
+ </item>
+ <item><text><![CDATA[Paragraph B]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='0'  feedback='Incorrect'>Huge industrial growth predicted</choice>
+<choice correct='1'  feedback='Correct'>A rosy outlook for carbon management systems</choice>
+<choice correct='0'  feedback='Incorrect'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='0'  feedback='Incorrect'>Basic software will not be enough</choice>
+<choice correct='0'  feedback='Incorrect'>A fight for a slice of the market</choice>
+<choice correct='0'  feedback='Incorrect'>New software for a boring job</choice>
+<choice correct='0'  feedback='Incorrect'>The major players</choice></choices>
+ </item>
+  <item><text><![CDATA[Paragraph C]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='0'  feedback='Incorrect'>Huge industrial growth predicted</choice>
+<choice correct='0'  feedback='Incorrect'>A rosy outlook for carbon management systems</choice>
+<choice correct='0'  feedback='Incorrect'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='1'  feedback='Correct'>Basic software will not be enough</choice>
+<choice correct='0'  feedback='Incorrect'>A fight for a slice of the market</choice>
+<choice correct='0'  feedback='Incorrect'>New software for a boring job</choice>
+<choice correct='0'  feedback='Incorrect'>The major players</choice></choices>
+ </item>
+  <item><text><![CDATA[Paragraph D]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='0'  feedback='Incorrect'>Huge industrial growth predicted</choice>
+<choice correct='0'  feedback='Incorrect'>A rosy outlook for carbon management systems</choice>
+<choice correct='1'  feedback='Correct'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='0'  feedback='Incorrect'>Basic software will not be enough</choice>
+<choice correct='0'  feedback='Incorrect'>A fight for a slice of the market</choice>
+<choice correct='0'  feedback='Incorrect'>New software for a boring job</choice>
+<choice correct='0'  feedback='Incorrect'>The major players</choice></choices>
+ </item>
+  <item><text><![CDATA[Paragraph E]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='0'  feedback='Incorrect'>Huge industrial growth predicted</choice>
+<choice correct='0'  feedback='Incorrect'>A rosy outlook for carbon management systems</choice>
+<choice correct='0'  feedback='Incorrect'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='0'  feedback='Incorrect'>Basic software will not be enough</choice>
+<choice correct='1'  feedback='Correct'>A fight for a slice of the market</choice>
+<choice correct='0'  feedback='Incorrect'>New software for a boring job</choice>
+<choice correct='0'  feedback='Incorrect'>The major players</choice></choices>
+ </item>
+  <item><text><![CDATA[Paragraph F]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='0'  feedback='Incorrect'>Huge industrial growth predicted</choice>
+<choice correct='0'  feedback='Incorrect'>A rosy outlook for carbon management systems</choice>
+<choice correct='1'  feedback='Correct'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='0'  feedback='Incorrect'>Basic software will not be enough</choice>
+<choice correct='0'  feedback='Incorrect'>A fight for a slice of the market</choice>
+<choice correct='0'  feedback='Incorrect'>New software for a boring job</choice>
+<choice correct='0'  feedback='Incorrect'>The major players</choice></choices>
+ </item>
+  <item><text><![CDATA[Paragraph G]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='0'  feedback='Incorrect'>Huge industrial growth predicted</choice>
+<choice correct='0'  feedback='Incorrect'>A rosy outlook for carbon management systems</choice>
+<choice correct='0'  feedback='Incorrect'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='0'  feedback='Incorrect'>Basic software will not be enough</choice>
+<choice correct='0'  feedback='Incorrect'>A fight for a slice of the market</choice>
+<choice correct='0'  feedback='Incorrect'>New software for a boring job</choice>
+<choice correct='1'  feedback='Correct'>The major players</choice></choices>
+ </item>
+ <item><text><![CDATA[Paragraph H]]></text><choices><choice correct='0' feedback="incorrect" selected="selected">Select</choice><choice correct='1'  feedback='Correct'>Huge industrial growth predicted</choice>
+<choice correct='0'  feedback='Incorrect'>A rosy outlook for carbon management systems</choice>
+<choice correct='0'  feedback='Incorrect'>Higher demands from software to come</choice>
+<choice correct='0'  feedback='Incorrect'>The main offenders</choice>
+<choice correct='0'  feedback='Incorrect'>Three reasons why firms must monitor carbon output</choice>
+<choice correct='0'  feedback='Incorrect'>Basic software will not be enough</choice>
+<choice correct='0'  feedback='Incorrect'>A fight for a slice of the market</choice>
+<choice correct='0'  feedback='Incorrect'>New software for a boring job</choice>
+<choice correct='0'  feedback='Incorrect'>The major players</choice></choices>
+ </item>
+ 
+
+
+<instructions2><![CDATA[<br /><hr><p>Select <em>True</em>, <em>False</em>, or <em>Not given</em></p><br /> ]]></instructions2>
+
+<item2><text><![CDATA[Most companies now report their carbon emissions in their annual statements.]]></text><choices><choice2 correct='0' feedback="incorrect" selected="selected">Select</choice2><choice2 correct='0'  feedback='Incorrect'>True</choice2><choice2 correct='1'  feedback='Correct'>False</choice2><choice2 correct='0'  feedback='Incorrect'>Not given</choice2></choices></item2>
+<item2><text><![CDATA[The Carbon Reduction Plan is currently working to reduce carbon emissions.]]></text><choices><choice2 correct='0' feedback="incorrect" selected="selected">Select</choice2><choice2 correct='0'  feedback='Incorrect'>True</choice2><choice2 correct='1'  feedback='Correct'>False</choice2><choice2 correct='0'  feedback='Incorrect'>Not given</choice2></choices></item2>
+<item2><text><![CDATA[There now seems to be a gap in the market for internet-based carbon-measurement software.]]></text><choices><choice2 correct='0' feedback="incorrect" selected="selected">Select</choice2><choice2 correct='0'  feedback='Incorrect'>True</choice2><choice2 correct='0'  feedback='Incorrect'>False</choice2><choice2 correct='1'  feedback='Correct'>Not given</choice2></choices></item2>
+<item2><text><![CDATA[Future software is likely to measure a wider range of a company&#39;s resources.]]></text><choices><choice2 correct='0' feedback="incorrect" selected="selected">Select</choice2><choice2 correct='1'  feedback='Correct'>True</choice2><choice2 correct='0'  feedback='Incorrect'>False</choice2><choice2 correct='0'  feedback='Incorrect'>Not given</choice2></choices></item2>
+<item2><text><![CDATA[The market will probably be made up of mainly start-up businesses.]]></text><choices><choice2 correct='0' feedback="incorrect" selected="selected">Select</choice2><choice2 correct='0'  feedback='Incorrect'>True</choice2><choice2 correct='1'  feedback='Correct'>False</choice2><choice2 correct='0'  feedback='Incorrect'>Not given</choice2></choices></item2>
+   
+	   </DOC>

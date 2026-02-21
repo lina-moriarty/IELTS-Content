@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOC><copyright>Copyright Exam English Ltd - All rights reserved</copyright>
+<random>no</random>
+<instructions>Read the text and then answer questions 1-5.</instructions>
+
+<text2><![CDATA[<h2>Long-haul flights get longer</h2><p>Long-haul flights have just got longer, with a non-stop flight from Singapore to New York now in operation.
+But 18 hours in the air creates its own challenges. A lot of preparation goes into the ultra long haul flight. The aircraft is specifically designed for the journey with more space and extensive entertainment services. The flight crew are also specially trained.</p>
+<p>
+The seasoned traveller is also more aware of the health risks associated with a flight that covers as much as 16,600-kilometers (10,310-miles) in distance.
+Exposure to lower oxygen levels for up to 18, maybe 20, hours is abnormal for the human body. With deep vein thrombosis (DVT) the problem really starts occurring after 12 hours (in-flight). This could lead to an increase in heart attacks.</p>
+<p>
+Doctors believe prevention is better than cure when it comes to in-flight health. Passengers on ultra long range flights need to be provided with flight socks and, if necessary,  tablets for thinning the blood.
+It is not just the health and vitality of the passenger that is at stake on a flight of this length, but also that of the flight crew.
+"They give us training on fatigue management and how to adjust to the local time in New York and to exercise, as well as take care our diet and eat lightly in-flight," says Linda Wu, a stewardess on Singapore Airlines.</p>
+<p>
+However, passengers are trading in health concerns for convenience. An extra- long flight means passengers do not need to break up their journey and change planes.
+"They like to board once, de-plane once. It is saving time," says James Williams from Singapore Airlines.</p>
+<p>
+"From Los Angeles to Singapore, passengers are saving two and a half hours. And to New York passengers are saving up to four hours in flying time."
+Thai Airways is also launching a non-stop service to New York from Bangkok next June to compete with Singapore Airlines. It is planning a similar service to Chicago.
+Cathay Pacific, Continental, Qantas and Emirates Airlines also offer flights that are more than 14 hours in duration. However, there is still a question of whether longer non-stop flights will become popular.
+"They will certainly have a role in the future of aviation, there is no doubt about it. People will prefer to fly non-stop if it is available," says Chris Johnson, an airline analyst.
+"But we are reaching the limits. These markets are at the very margin of aviation. Most airlines still fly in the eight to 12-hour sector. This is still where the biggest volume in traffic is."
+Avery believes that geography will determine the demand for the ultra long-haul flight and that worldwide appeal for this type of flight is unlikely.
+"Asia is where the demand is for the ultra long-haul flight. They are connecting Asian cities to the U.S. East Coast, which is the big market," he explains.
+"The routes that connect most places that European business travellers go do not need a capacity and endurance to fly 18-hours -- this is the same for U.S. carriers."
+</p>]]></text2>
+<item>
+
+<text>Why are longer flights potentially harmful to passengers and crew?</text>
+<choice feedback="Correct 'Exposure to lower oxygen levels for up to 18, maybe 20, hours is abnormal for the human body'" correct="1">Because there isn't as much oxygen in the air.</choice>
+
+<choice feedback="Incorrect.">People will get bored</choice>
+<choice feedback="Incorrect. There is no evidence of this">long periods of inactivity will damage their bones</choice>
+
+
+
+</item>
+
+<item>
+<text>What are flight socks?</text>
+<choice correct="0" feedback="Incorrect ">special socks to keep the plane free of harmful bacteria</choice>
+<choice feedback="Correct  Well done!" correct="1">one of the preventive measures planned by airlines</choice>
+<choice correct="0" feedback="Incorrect ">socks that stop your blood getting too thin</choice>
+
+</item>
+<item>
+<text>Which of the following methods of countering the health problems caused by long flights is NOT mentioned?</text>
+<choice feedback="Incorrect 'how to adjust to the local time in New York'">how best to cope with jet lag</choice>
+<choice feedback="Incorrect  'take care our diet and eat lightly'">advice on food consumption during a flight</choice>
+<choice feedback="Correct Well done!" correct="1">advice on drinking alchohol</choice>
+<choice correct="0" feedback="Incorrect ">the role of exercise in helping flyers cope with the long flights</choice>
+</item>
+
+<item>
+<text>What are the advantages of longer flights?</text>
+<choice correct="0" feedback="Incorrect ">There are less problems with jet lag</choice>
+<choice feedback="Correct  'to New York passengers are saving up to four hours in flying time.'"  correct="1">passengers save time</choice>
+<choice feedback="Incorrect 'passengers do not need to break up their journey'">passengers get a good break between flights</choice>
+
+</item>
+<item>
+<text>Where is the market for longer flights expected to develop?</text>
+<choice feedback="Incorrect 'most places that European business travellers go do not need a capacity and endurance to fly 18-hours'">between Europe and America</choice>
+<choice feedback="Correct  'connecting Asian cities to the U.S. East Coast'"  correct="1">between Asia and America</choice>
+<choice correct="0" feedback="Incorrect ">between Asia and Europe</choice>
+
+</item>
+</DOC>

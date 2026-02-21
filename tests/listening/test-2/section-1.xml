@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<DOC>
+<instructions><![CDATA[ A radio listener is speaking to Brian, the conductor of a radio programme]]></instructions><audio>lelts1.mp3</audio>
+
+
+
+
+  <item2>
+
+<type>typein</type>
+
+<text>How far is the place Sarah suggests should be used instead? Not more than _____ . </text>
+
+<gap>300 metres|300m|three hundred metres</gap>
+
+</item2>
+
+<item2>
+
+<type>typein</type>
+
+<text>How should Sarah contact John Edwards? She should _____ at the council offices.</text>
+
+<gap>make an appointment</gap>
+
+</item2> 
+
+<item2>
+
+<type>typein</type>
+
+<text>What kind of person is Mr Edwards? He's good at ____________ solutions.</text>
+
+<gap>coming up with|finding|suggesting practical|suggesting</gap>
+
+</item2> 
+
+<item>
+
+<type>mc</type>
+
+<text>Sarah lives near a ____ .</text>
+
+<choice feedback="Incorrect.">tower</choice>
+
+<choice feedback="Correct" correct="1">dirty neighbourhood</choice>
+
+<choice feedback="Incorrect.">market</choice>
+
+</item>
+
+<item>
+
+<type>mc</type>
+
+<text>She wants to _____ .</text>
+
+<choice feedback="Incorrect.">propose</choice>
+
+<choice feedback="Incorrect.">persuade</choice>
+
+<choice feedback="Correct" correct="1">complain</choice>
+
+</item>
+
+<item>
+
+<type>mc</type>
+
+<text>The residents on the estate are mostly _____ .</text>
+
+<choice feedback="Incorrect.">children</choice>
+
+<choice feedback="Incorrect.">workmen</choice>
+
+<choice feedback="Correct" correct="1">retired</choice>
+
+</item>
+
+<item>
+
+<type>mc</type>
+
+<text>Citizens relax in a/an _____ .</text>
+
+<choice feedback="Incorrect.">street market</choice>
+
+<choice feedback="Incorrect.">play centre</choice>
+
+<choice feedback="Correct" correct="1">open green space</choice>
+
+</item>
+
+<item>
+
+<type>mc</type>
+
+<text>As Sarah sees it, the council's project involves ______ .</text>
+
+<choice feedback="Incorrect.">restoring</choice>
+
+<choice feedback="Incorrect.">re-using</choice>
+
+<choice feedback="Correct" correct="1">destroying</choice>
+
+</item>
+
+<item>
+
+<type>mc</type>
+
+<text>The Council's idea would benefit _____ .</text>
+
+<choice feedback="Correct" correct="1">children</choice>
+
+<choice feedback="Incorrect.">their members</choice>
+
+<choice feedback="Incorrect.">pensioners</choice>
+
+</item>
+
+<item>
+
+<type>mc</type>
+
+<text>Members of the Council have _____ Sarah's requests.</text>
+
+<choice feedback="Correct" correct="1">ignored</choice>
+
+<choice feedback="Incorrect.">accepted</choice>
+
+<choice feedback="Incorrect.">welcomed</choice>
+
+</item>
+
+
+
+</DOC>

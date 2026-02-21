@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOC><copyright>Exam English Ltd - All rights reserved</copyright><config>	<random>no</random>	<randomiseChoices>no</randomiseChoices>	<showQuestionNumbers>yes</showQuestionNumbers>	<sectionsOnSamePage>no</sectionsOnSamePage></config>  <title>IELTS Reading part 2</title>  <reading><![CDATA[<p><strong>Self-Catering Holiday Cottages in the Lake District National Park</strong></p>
+<p>  At Lilliput Farm we have three cottages for rent as self-catering holiday accommodation. <br />
+  We have been awarded 4 stars in the Holiday Accommodation Accreditation Service for excellence in quality and service. </p>
+<p><em>Dairymaid’s Loft </em>is situated above the barn under the eaves. It is the largest of the properties, having one double bedroom with en suite, a twin room and a single room. There is also a sofa-bed in the living room. There is a large kitchen, a living room, dining room and newly-fitted bathroom. Please note that, since the entire property is on the first floor, and the stairs are steep, the accommodation is not suitable for the elderly, the infirm, pets and very young children.&nbsp; </p>
+<p><em>Shepherd’s Rest</em> is suitable for up to four occupants. There is a double bedroom and a twin room with bunk-beds. There is a small kitchen and a large living room. There is a shower room with separate WC. The accommodation is spread over two floors. Pets are allowed, but we request that they are kept downstairs.</p>
+<p><em>Haymaker’s Den </em>is a one-bedroom cottage at ground floor level. There is also a sofa bed in the living room which can sleep two people. It has a large living area comprising a kitchen/diner and living space. There is a ramp leading up to the property, and the large bathroom is fitted so as to be suitable for wheelchair users and people who use walking aids. We ask that pets are not brought into this property.</p>
+<p>All the properties have: a television, CD player and DVD player. <em>Dairymaid’s Loft</em> and <em>Haymaker’s Den</em> have Sky Television. <em>Shepherd’s Rest</em> has wi-fi access. Cots can be provided to all properties, but please note that <em>Dairymaid’s Loft</em> may be unsuitable for toddlers and crawling babies. All properties have a washing machine, fridge freezer and microwave. <em>Dairymaid’s Loft</em> also has a dishwasher and a tumble drier. </p>
+<p>The cottages share an outside area with swings, a patio and barbecue area. Outdoor furniture is available in the barn. </p>
+<p>All cottages have electric power. None are fitted with gas. Electricity is paid via a meter. You will receive a £10 worth of electricity at the beginning of your stay with our compliments (£5 for short breaks). After that, you will need to add money to the meter. <em>Shepherd’s Rest</em> also has a wood-burning stove. Guests will receive one complimentary basket of wood. Subsequent baskets can be purchased for £2 each. Please help yourself to wood in the barn and put money in the honesty box.</p>
+<p>Cottages can be booked by the week or for short breaks. Short breaks are either Fridays – Mondays (3 nights) or Mondays to Fridays (4 nights). Discounts are available in the low season (October to March). Couples staying in <em>Dairymaid’s Loft</em> and <em>Shepherd’s Rest</em> can also get a two-person discount. Week-long bookings are on a Saturday – Saturday basis. We regret that it is not possible to accommodate arrivals on Fridays. We ask that guests arrive after 3pm and vacate the property by 10.30 on their departure date, so allow us to clean and prepare the properties for the next guests.</p>
+<p>To make a booking, you will need to make a deposit of fifty percent up front. The remainder is payable one month before your arrival. (If you make a booking less than a month in advance, you must pay the entire amount up front). If you need to cancel your stay, you will receive a complete refund if you contact us 30 days in advance of your booking. Cancellations made two weeks in advance will receive a 60% discount. We regret that we cannot give a discount for cancellations made less than two weeks in advance.</p>
+]]></reading>
+ <instructions><![CDATA[Read the information below and answer the questions ]]></instructions>
+<item><text><![CDATA[Which of the cottages is most suitable for the following guests?<br >An elderly couple, one of whom uses a walking frame? ]]></text><choices> <choice feedback="incorrect" selected="selected">Select</choice>
+ <choice feedback='Incorrect'>Dairymaid’s Loft</choice>
+<choice  feedback='Correct' correct='1'>Haymaker’s Den</choice><choice feedback='Incorrect'>Shepherd’s Rest</choice></choices>
+ </item>
+
+
+
+<item><text><![CDATA[A family of two adults and two children, the youngest being 3 years old?]]></text>
+<choices> 
+<choice feedback="incorrect" selected="selected">Select</choice>
+ <choice feedback='Incorrect'>Dairymaid’s Loft</choice>
+<choice feedback='Incorrect'>Haymaker’s Den</choice>
+<choice  feedback='Correct' correct='1'>Shepherd’s Rest</choice></choices>
+ </item>
+
+
+
+<item><text><![CDATA[A group of six young adults.]]></text><choices> 
+<choice feedback="incorrect" selected="selected">Select</choice>
+<choice  feedback='Correct' correct='1'>Dairymaid’s Loft</choice>
+<choice feedback='Incorrect'>Haymaker’s Den</choice>
+<choice feedback='Incorrect'>Shepherd’s Rest</choice></choices>
+ </item>
+ <item><text><![CDATA[Someone who wants to use the internet during their stay.]]></text>
+<choices> 
+<choice feedback="incorrect" selected="selected">Select</choice>
+ <choice feedback='Incorrect'>Dairymaid’s Loft</choice>
+<choice feedback='Incorrect'>Haymaker’s Den</choice>
+<choice  feedback='Correct' correct='1'>Shepherd’s Rest</choice></choices>
+ </item>
+ <item><text><![CDATA[Someone who doesn’t want to wash up while on holiday.]]></text><choices> 
+<choice feedback="incorrect" selected="selected">Select</choice>
+<choice  feedback='Correct' correct='1'>Dairymaid’s Loft</choice>
+<choice feedback='Incorrect'>Haymaker’s Den</choice>
+<choice feedback='Incorrect'>Shepherd’s Rest</choice></choices>
+ </item>
+  <item><text><![CDATA[A family with a dog.]]></text>
+<choices> 
+<choice feedback="incorrect" selected="selected">Select</choice>
+ <choice feedback='Incorrect'>Dairymaid’s Loft</choice>
+<choice feedback='Incorrect'>Haymaker’s Den</choice>
+<choice  feedback='Correct' correct='1'>Shepherd’s Rest</choice></choices>
+ </item>
+<instructions2><![CDATA[<br /><hr><i>Do the following statements agree with the information given in the passage?</i><br /><p>TRUE - if the statement agrees with the information<br />
+  FALSE -  if the statement contradicts the information<br />
+  NOT GIVEN - if there is no information on this </p> ]]></instructions2>
+
+<item2><text><![CDATA[Guests have to pay extra for all the electricity they use. ]]></text><choices>
+ <choice2 feedback="incorrect" selected="selected">Select</choice2>
+<choice2 feedback='Incorrect'>TRUE</choice2>
+<choice2 correct='1' feedback='Correct'>FALSE</choice2>
+<choice2 feedback='Incorrect'>NOT GIVEN</choice2></choices>
+
+ </item2>
+ <item2><text><![CDATA[Each property has its own garden. ]]></text><choices>
+ <choice2 feedback="incorrect" selected="selected">Select</choice2>
+<choice2 feedback='Incorrect'>TRUE</choice2>
+<choice2 correct='1' feedback='Correct'>FALSE</choice2>
+<choice2 feedback='Incorrect'>NOT GIVEN</choice2></choices>
+
+ </item2>
+ <item2><text><![CDATA[Dairymaid’s Loft costs less to rent if only two people stay there in December. ]]></text><choices>
+ <choice2 feedback="incorrect" selected="selected">Select</choice2>
+<choice2 correct='1' feedback='Correct'>TRUE</choice2>
+<choice2 feedback='Incorrect'>FALSE</choice2>
+<choice2 feedback='Incorrect'>NOT GIVEN</choice2></choices>
+
+ </item2>
+  <item2><text><![CDATA[There are no electric heaters in Shepherd’s Rest.]]></text><choices>
+ <choice2 feedback="incorrect" selected="selected">Select</choice2>
+<choice2 feedback='Incorrect'>TRUE</choice2>
+<choice2 feedback='Incorrect'>FALSE</choice2>
+<choice2 correct='1' feedback='Correct'>NOT GIVEN</choice2></choices>
+
+ </item2>
+ 
+
+
+	   
+	   <section type="gapfill" view="all"><instructions3><![CDATA[Complete the spaces using <em>no more than three words</em> or <em>a number</em>.<hr><br />]]></instructions3>
+
+<item3>
+	<gapq><![CDATA[&nbsp;]]></gapq>
+  
+ <gaptext><![CDATA[
+Guests staying for a weekend should arrive on a  ]]></gaptext><gap>Friday</gap><gaptext><![CDATA[.]]></gaptext></item3>
+<item3>
+	<gapq><![CDATA[&nbsp;]]></gapq>
+  
+ <gaptext><![CDATA[
+Guests staying for a full week should arrive on a    ]]></gaptext><gap>Saturday</gap><gaptext><![CDATA[.]]></gaptext></item3>
+<item3>
+	<gapq><![CDATA[&nbsp;]]></gapq>
+  
+ <gaptext><![CDATA[
+If you book two weeks before your stay, you must pay  ]]></gaptext><gap>100</gap><gaptext><![CDATA[ % of the cost at once.]]></gaptext></item3>
+<item3>
+	<gapq><![CDATA[&nbsp;]]></gapq>
+  
+ <gaptext><![CDATA[
+To get all your money back, you must cancel your stay at least   ]]></gaptext><gap>30 days|thirty days</gap><gaptext><![CDATA[ in advance.]]></gaptext></item3>
+</section></DOC>

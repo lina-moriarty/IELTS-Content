@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOC>
+<random>no</random>
+<title>IELTS Listening test, conversation 1</title>
+<audio>ielts_3.mp3</audio>
+<instructions>Listen to a student talking to a college representative about foundation courses.  Then answer the questions.</instructions>
+<item><image>none</image><text><![CDATA[Which THREE of the following are features of foundation courses?]]></text><choice feedback='Correct'>A low fees</choice><choice feedback='Incorrect'>B full-time education</choice><choice feedback='Correct'>C work experience</choice><choice feedback='Correct'>D small class sizes</choice><choice feedback='Incorrect'>E an honours degree qualification</choice></item>
+
+<item><text><![CDATA[Complete the entry requirements below.  Write no more than three words or a number for each answer.<br><br><b>Entry Requirements</b><br>GCSEs in ]]></text><gap>Maths and English|English and Maths</gap><text>(grade C or above).</text></item><item><text>&lt;br&gt;&lt;br&gt;
+ A Levels:  </text><gap>60</gap><text> points, including one complete A level.</text></item>
+
+<item2><image>none</image><text><![CDATA[ What do students learn about in the following modules? Match the content to each module]]></text><match>Organisational Behaviour</match><choice2 feedback='Incorrect'>Team leadership skills, in theory and practice</choice2><choice2 feedback='Incorrect'>Relationship between society and public services</choice2><choice2 feedback='Incorrect'>Motivating people in an organisation</choice2><choice2 feedback='Incorrect'>How social behaviour affects public service work</choice2><choice2 feedback='Correct'>The design and structure of organisations</choice2><choice2 feedback='Incorrect'>Keeping management costs low</choice2><choice2 feedback='Incorrect'>Preparing a budget and finding funds </choice2>
+<match>Managing People</match><choice2 feedback='Correct'>Team leadership skills, in theory and practice</choice2><choice2 feedback='Incorrect'>Relationship between society and public services</choice2><choice2 feedback='Incorrect'>Motivating people in an organisation</choice2><choice2 feedback='Incorrect'>How social behaviour affects public service work</choice2><choice2 feedback='Incorrect'>The design and structure of organisations</choice2><choice2 feedback='Incorrect'>Keeping management costs low</choice2><choice2 feedback='Incorrect'>Preparing a budget and finding funds </choice2>
+
+<match>Individual and Group Behaviour</match><choice2 feedback='Incorrect'>Team leadership skills, in theory and practice</choice2><choice2 feedback='Incorrect'>Relationship between society and public services</choice2><choice2 feedback='Correct'>Motivating people in an organisation</choice2><choice2 feedback='Incorrect'>How social behaviour affects public service work</choice2><choice2 feedback='Incorrect'>The design and structure of organisations</choice2><choice2 feedback='Incorrect'>Keeping management costs low</choice2><choice2 feedback='Incorrect'>Preparing a budget and finding funds </choice2>
+
+<match>Financial Resources</match><choice2 feedback='Incorrect'>Team leadership skills, in theory and practice</choice2><choice2 feedback='Incorrect'>Relationship between society and public services</choice2><choice2 feedback='Incorrect'>Motivating people in an organisation</choice2><choice2 feedback='Incorrect'>How social behaviour affects public service work</choice2><choice2 feedback='Incorrect'>The design and structure of organisations</choice2><choice2 feedback='Incorrect'>Keeping management costs low</choice2><choice2 feedback='Correct'>Preparing a budget and finding funds </choice2>
+
+<match>Applied Psychology for the Public Services</match><choice2 feedback='Incorrect'>Team leadership skills, in theory and practice</choice2><choice2 feedback='Incorrect'>Relationship between society and public services</choice2><choice2 feedback='Incorrect'>Motivating people in an organisation</choice2><choice2 feedback='Correct'>How social behaviour affects public service work</choice2><choice2 feedback='Incorrect'>The design and structure of organisations</choice2><choice2 feedback='Incorrect'>Keeping management costs low</choice2><choice2 feedback='Incorrect'>Preparing a budget and finding funds </choice2>
+
+
+
+</item2>
+
+
+
+</DOC>
+	
+
+

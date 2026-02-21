@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOC><copyright>Exam English Limited - All Rights Reserved</copyright>
+<random>no</random>
+<title><![CDATA[IELTS Listening]]></title>
+<audio>lelts3.mp3</audio>
+<instructions>Listen to a tour guide and label the diagram.  Complete the summary and then the questions. Write &lt;b&gt;NO MORE THAN THREE WORDS&lt;/b&gt; for each answer.</instructions>
+  <lasttext><![CDATA[ &nbsp;]]></lasttext>
+
+<item>
+<text><![CDATA[<br clear="all"/><hr>What’s on at the Museum of Modern Art? Select the correct answers:]]></text>
+<choice feedback="Correct" correct="1">Architecture and Design</choice>
+<choice feedback="Incorrect.">Drawings</choice>
+<choice feedback="Incorrect.">Painting and Sculpture</choice>
+<choice feedback="Incorrect.">Photography</choice>
+<choice feedback="Correct" correct="1">Prints and Illustrated Books</choice>
+<choice feedback="Correct" correct="1">Film and Media.</choice>
+</item>
+
+
+
+<item2>
+<type>mc</type>
+<text>The hills ...</text>
+<choice feedback="Incorrect.">are all along the coast</choice>
+<choice feedback="Incorrect.">are 30 km long</choice>
+<choice feedback="Correct" correct="1">have a semi-circular shape</choice>
+
+</item2>
+<item2>
+<type>mc</type>
+<text>The guide recommends ...</text>
+<choice feedback="Incorrect.">playing golf</choice>
+<choice feedback="Correct" correct="1">drinking wine</choice>
+<choice feedback="Incorrect.">eating seafood</choice>
+
+</item2> 
+ 
+
+<item>
+<text><![CDATA[Label the diagram <img align="right" src="images/IELTS_Listening_map.png" /><br />1. ]]></text> 
+<gap>National Congress</gap>
+</item>
+<item>
+<text><![CDATA[<br />2. ]]></text> 
+<gap>Independence Avenue</gap>
+</item> 
+<item>
+<text><![CDATA[<br />3. ]]></text> 
+<gap>Railway Station</gap>
+</item> 
+<item>
+<text><![CDATA[<br />4. ]]></text> 
+<gap>St Paul's Park|St Pauls Park|Saint Paul's Park</gap>
+</item> 
+<item>
+<text><![CDATA[<br />5. ]]></text> 
+<gap>St James's Circus|Saint Jame's Circus|St James Circus</gap>
+</item> 
+<item>
+<text><![CDATA[<br />6. ]]></text> 
+<gap>Army|Army buildings</gap>
+</item>
+<item>
+<text><![CDATA[<br />7. ]]></text> 
+<gap>Modern Art Museum</gap>
+</item>
+
+
+
+
+<script><![CDATA[<p>We have arrived at the city of Arkeba, in the western part of the country. This is your free day in our excursion, but if you follow the instructions on the map I’ve just given out you’ll be able to sightsee the city on your own during the day. I’ll pick you up at this spot again in 6 hours, that is, at 6 pm. Please, try to be punctual, as we need to head off to Susdain to spend the night there. And remember we’ll have dinner together on the way.<br />
+  Now take a look at the map, I’ll give you a short description of the most important places that you shouldn’t miss… Ready?<br />
+  In the centre of the city is the National Congress, from where Independence Avenue goes, straight to the Railway Station, at the northernmost point of the city. <br />
+  West of the National Congress is St Paul’s Park, rectangular in shape, and extending almost to the limits of St James’s Circus, a circular area where you’ll find colourful antique shops and cafes.<br />
+  St James’s Circus is overlooked by a row of modern buildings belonging to the Army, running alongside it on the East.<br />
+  From the National Congress, a straight narrow road branches off to the left. It reaches the Modern Art Museum, just inside the city boundary.<br />
+  The Modern Art Museum presents a most extensive display of works of art, from Architecture and Design, Prints and Illustrated Books, to Film and Media.<br />
+  As additional information, it’s good to know that a range of hills surrounds the coast in the broadest part of the country in a rough semicircle about 30 km away from the sea, which becomes an exclusive ski resort in winter. The hills continue eastwards along the middle of the narrower part of the country, where beaches provide tourists with recreational centres in summer.<br />
+  It is a marvelous capital city and it’s renowned for its gastronomy based on seafood. It's also of historic interest because of the role the city played in the revolution. <br />
+  Does anybody play golf? Golf courses are one of the most traditional games in the country, and there are several good courses around the city. You don't have time to visit the surrounding vineyards but if you happen to have the chance…., I’d rather you tried its wine, you’ll never forget it…<br />
+  Anyway…, whether you come to Arkeba in winter or in summer…, you’ll always find somewhere to enjoy and relax…<br />
+Have fun, and be back on time!</p>]]>
+</script>
+
+
+
+</DOC>
+	
+
+
