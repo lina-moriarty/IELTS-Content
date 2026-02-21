@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8' content='text/html' http-equiv='Content-Type'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='noindex' name='robots'>
+<link href='/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'>
+<link href='/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'>
+<link href='/favicon-96x96.png' rel='icon' sizes='96x96' type='image/png'>
+<link href='/apple-touch-icon-precomposed.png' rel='apple-touch-icon-precomposed'>
+<link href='/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+<link href='/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+<link href='/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+<link href='https://ieltsgt.magoosh.com/ielts-general-training-reading-test' rel='canonical'>
+<!-- This script is only included in the head. There is a separate tag for the body -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KDKF3SN');</script>
+
+<!-- Initialize Microsoft UET consent value (used by Bing ads tag in GTM) -->
+<script>
+  const consentGranted = true;
+
+  window.uetq = window.uetq || [];
+  window.uetq.push('consent', 'default', { 'ad_storage': consentGranted ? 'granted' : 'denied' });
+</script>
+
+<script type='text/javascript'>
+  if (!window.pageContext) {
+    window.pageContext = {};
+  }
+
+  window.pageContext.currentUser = null;
+</script>
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qRsPW+rT9c4XTQU2jHx6wVvlmveNtbKvO6cKlumV1ybZ7ptFcySjyCjJyLiXIJw1TC/0T0Mjlsq0OurDRXZPGw==" />
+<script>
+window.pageViewId = 'e500cb1f-61d4-40a8-970e-1c2a7f589134';
+</script>
+
+<meta property="og:url" content="https://ieltsgt.magoosh.com/ielts-general-training-reading-test" />
+<meta content='' name='description'>
+<meta content='' name='keywords'>
+<meta content='noindex' name='robots'>
+<link rel="stylesheet" media="screen" href="https://d296n67kxwq0ge.cloudfront.net/packs/marketing-14f0bb2c9dc8da1525ea.css" />
+<title>
+IELTS General Training Reading Test (PDF)
+</title>
+</head>
+<body>
+<link rel="preload" href="https://d296n67kxwq0ge.cloudfront.net/assets/Tondo-Regular-03d2dff4cd27a6108b55875bb9faab4393327abbd8f1ddd03942ad86bb1129ab.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://d296n67kxwq0ge.cloudfront.net/assets/Tondo-Bold-a4d88ec25829a4607d1f623954de87e4bea3db7b1f1b5a15fdde55ad8a1ce0f9.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://d296n67kxwq0ge.cloudfront.net/assets/fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2?v=4.5.0" as="font" crossorigin="anonymous">
+<link rel="preload" href="https://d296n67kxwq0ge.cloudfront.net/assets/marketing-7d8b21df3ee28832a1ddfd5acfbbb59ea74509fc15dd5a09c2e8fef9c78b68aa.css" as="style" type="text/css">
+<link rel="stylesheet" media="screen" href="https://d296n67kxwq0ge.cloudfront.net/assets/marketing-7d8b21df3ee28832a1ddfd5acfbbb59ea74509fc15dd5a09c2e8fef9c78b68aa.css" />
+<script src="https://d296n67kxwq0ge.cloudfront.net/assets/marketing-9a3153077dcad571e5c8db6c19e0d1ec1567a015b98cd2b5c4725f5af7ea5fff.js"></script>
+
+<div data-react-class="layouts/page" data-react-props="{&quot;children&quot;:&quot;\u003c!-- / Bust the cache when the version is updated --\u003e\n\u003cstyle\u003e\r\n#ebook-pdf-iframe {\r\n    border: none;\r\n    position: fixed;\r\n    top: 0;\r\n    left: 0;\r\n    width: 100%;\r\n    height: 100%;\r\n    z-index: 100;\r\n}\r\n\r\nfooter {\r\n    display: none;\r\n}\r\n\r\n/* zendesk widget */\r\n.zEWidget-launcher {\r\n    display: none;\r\n}\r\n\u003c/style\u003e\r\n\r\n\u003cscript\u003e\r\nif (/iPhone|iPad|iPod|iOS|Android/.test(window.navigator.userAgent)) {\r\n  // wait until after google analytics finishes\r\n  setTimeout(function() {\r\n    // embedded pdfs don&#39;t work on iOS / maybe android\r\n    window.location.replace(\&quot;https://magoosh-production.s3.amazonaws.com/attachments/8230/assets/originals.pdf?1626464501\&quot;);\r\n  }, 500);\r\n}\r\n\u003c/script\u003e\r\n\r\n\u003ciframe id=\&quot;ebook-pdf-iframe\&quot; src=\&quot;https://magoosh-production.s3.amazonaws.com/attachments/8230/assets/originals.pdf?1626464501\&quot;\u003e\u003c/iframe\u003e\n&quot;,&quot;dashedBorder&quot;:false,&quot;examName&quot;:&quot;IELTS General Training &quot;,&quot;navigationItems&quot;:{&quot;items&quot;:[{&quot;badge&quot;:null,&quot;content&quot;:&quot;Student Reviews&quot;,&quot;href&quot;:&quot;https://ieltsgt.magoosh.com/magoosh-review&quot;},{&quot;badge&quot;:null,&quot;content&quot;:&quot;Score Guarantee&quot;,&quot;href&quot;:&quot;https://ielts.magoosh.com/score-guarantee&quot;},{&quot;badge&quot;:null,&quot;content&quot;:&quot;Features&quot;,&quot;href&quot;:&quot;https://ielts.magoosh.com/features&quot;},{&quot;badge&quot;:null,&quot;content&quot;:&quot;Pricing&quot;,&quot;href&quot;:&quot;https://ielts.magoosh.com/gt-plans&quot;}],&quot;supplementalItems&quot;:[{&quot;button&quot;:&quot;white&quot;,&quot;content&quot;:&quot;Log In&quot;,&quot;href&quot;:&quot;/login&quot;},{&quot;button&quot;:&quot;green&quot;,&quot;content&quot;:&quot;Sign Up&quot;,&quot;href&quot;:&quot;/plans&quot;}]},&quot;notice&quot;:{&quot;message&quot;:&quot;\u003cp\u003eTake 30% off all study plans with code \u003cstrong\u003eARCHIVES\u003c/strong\u003e - Expires on Monday 2/23\u003c/p\u003e&quot;}}" data-hydrate="t" data-react-cache-id="layouts/page-0"><div class="d-flex flex-column" style="min-height:100vh" data-reactroot=""><div class="d-flex flex-column style-module__container___2JU9I flex-1" style="position:relative"><div class="style-module__navbarContainer___3z2bp" style="z-index:15"><div><div class="style-module__stickyNoticeBannerContainer___1cdAH"><div class="d-flex flex-column style-module__container___2JU9I" style="position:relative"><div class="align-items-center d-flex gap-s justify-content-center"><div class="flex-none"><img alt="Sale tag icon" height="20px" src="https://d296n67kxwq0ge.cloudfront.net/packs/media/react/layouts/components/notice_banner/assets/sale_tag_icon-a06bdb409c9f436c15b00285bafb1d02.svg" width="20px"/></div><div><p>Take 30% off all study plans with code <strong>ARCHIVES</strong> - Expires on Monday 2/23</p></div></div></div></div><div class="d-flex flex-column style-module__container___2JU9I" style="position:relative"><nav class="" style="position:relative"><div class="style-module__navbar___1xQM7 align-items-center d-flex flex-1 gap-s"><div class="flex-none"><a href="/"><img alt="Magoosh logo" class="style-module__logo___3ee5q u-margin-R-xs" src="https://d296n67kxwq0ge.cloudfront.net/packs/media/react/assets/magoosh-logo-purple-7526705ac1f6241ac6bb6686826618e4.png"/></a></div><div class="d-flex flex-1 hidden-xs hidden-sm" style="height:100%"><ul class="style-module__navbarItems___2OeFN"><li><a content="Student Reviews" href="https://ieltsgt.magoosh.com/magoosh-review" class="align-items-center d-flex gap-xxs"><div>Student Reviews</div></a></li><li><a content="Score Guarantee" href="https://ielts.magoosh.com/score-guarantee" class="align-items-center d-flex gap-xxs"><div>Score Guarantee</div></a></li><li><a content="Features" href="https://ielts.magoosh.com/features" class="align-items-center d-flex gap-xxs"><div>Features</div></a></li><li><a content="Pricing" href="https://ielts.magoosh.com/gt-plans" class="align-items-center d-flex gap-xxs"><div>Pricing</div></a></li></ul></div><div class="hidden-xs hidden-sm" style="height:100%"><ul class="style-module__navbarItems___2OeFN"><li class="style-module__navItemButton___3Z_g1"><a button="white" content="Log In" href="/login" class="style-module__whiteButton___1AogC style-module__buttonSmall___1Stb-"><span>Log In</span></a></li><li class="style-module__navItemButton___3Z_g1"><a button="green" content="Sign Up" href="/plans" class="style-module__greenButton___3e1N- style-module__buttonSmall___1Stb-"><span>Sign Up</span></a></li></ul></div><div class="flex-1 visible-xs visible-sm"><div class="d-flex flex-1 flex-lg-none justify-content-end"><button class="style-module__navbarToggle___2pBm7"><span class="sr-only">Toggle navigation</span><span class="style-module__iconBar___3Pq_H"></span><span class="style-module__iconBar___3Pq_H"></span><span class="style-module__iconBar___3Pq_H"></span></button></div></div></div><div class="visible-xs visible-sm" style="background:#fff;box-shadow:none;height:0;margin-left:-20px;overflow-y:auto;padding:0 20px;position:absolute;top:74px;transition:height 200ms;width:calc(100% + 40px)"><div class="d-flex flex-column u-padding-V-m" style="gap:15px"><ul class="style-module__navbarItems___2OeFN"><li><a content="Student Reviews" href="https://ieltsgt.magoosh.com/magoosh-review" class="align-items-center d-flex gap-xxs"><div>Student Reviews</div></a></li><li><a content="Score Guarantee" href="https://ielts.magoosh.com/score-guarantee" class="align-items-center d-flex gap-xxs"><div>Score Guarantee</div></a></li><li><a content="Features" href="https://ielts.magoosh.com/features" class="align-items-center d-flex gap-xxs"><div>Features</div></a></li><li><a content="Pricing" href="https://ielts.magoosh.com/gt-plans" class="align-items-center d-flex gap-xxs"><div>Pricing</div></a></li></ul><ul class="style-module__navbarItems___2OeFN"><li class="style-module__navItemButton___3Z_g1"><a button="white" content="Log In" href="/login" class="style-module__whiteButton___1AogC style-module__buttonBlock___1Dd8N style-module__buttonSmall___1Stb-"><span>Log In</span></a></li><li class="style-module__navItemButton___3Z_g1"><a button="green" content="Sign Up" href="/plans" class="style-module__greenButton___3e1N- style-module__buttonBlock___1Dd8N style-module__buttonSmall___1Stb-"><span>Sign Up</span></a></li></ul></div></div></nav></div></div></div><div style="height:1px;left:0;position:absolute;right:0;top:500px"><span style="font-size:0"></span></div><div class="style-module__noticeBannerContainer___2U5_G"><div class="align-items-center d-flex gap-s justify-content-center"><div class="flex-none"><img alt="Sale tag icon" height="20px" src="https://d296n67kxwq0ge.cloudfront.net/packs/media/react/layouts/components/notice_banner/assets/sale_tag_icon-a06bdb409c9f436c15b00285bafb1d02.svg" width="20px"/></div><div><p>Take 30% off all study plans with code <strong>ARCHIVES</strong> - Expires on Monday 2/23</p></div></div></div><div class="d-flex flex-column" style="gap:80px;margin-top:0;position:relative;z-index:10"><div><!-- / Bust the cache when the version is updated -->
+<style>
+#ebook-pdf-iframe {
+    border: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+}
+
+footer {
+    display: none;
+}
+
+/* zendesk widget */
+.zEWidget-launcher {
+    display: none;
+}
+</style>
+
+<script>
+if (/iPhone|iPad|iPod|iOS|Android/.test(window.navigator.userAgent)) {
+  // wait until after google analytics finishes
+  setTimeout(function() {
+    // embedded pdfs don't work on iOS / maybe android
+    window.location.replace("https://magoosh-production.s3.amazonaws.com/attachments/8230/assets/originals.pdf?1626464501");
+  }, 500);
+}
+</script>
+
+<iframe id="ebook-pdf-iframe" src="https://magoosh-production.s3.amazonaws.com/attachments/8230/assets/originals.pdf?1626464501"></iframe>
+</div></div></div><div class="u-margin-T-xl"><div><div class="style-module__scallopedEdge___2Iz5E"></div><div style="background:#472375"><div class="d-flex flex-column style-module__container___2JU9I u-padding-V-xl" style="position:relative"><div class="d-flex flex-column-reverse flex-lg-row gap-l"><div class="style-module__magooshOrigin___2LtzV text-inter" style="color:#C8BDD6"><span style="color:#FFFFFF"><strong>Magoosh</strong></span> is a play on the Old Persian word magush, one who is highly learned, wise and generous.</div><div class="d-flex flex-wrap flex-lg-nowrap" style="row-gap:30px"><div class="style-module__linkList___1rsFw"><ul><li>Magoosh <!-- -->IELTS General Training </li><li><a href="/">Home</a></li><li><a href="/terms">Terms of Use</a></li><li><a href="/sms_terms">SMS Terms</a></li><li><a href="/privacy">Privacy</a></li></ul></div><div class="style-module__linkList___1rsFw"><ul><li>Account</li><li><a href="/plans">Plans &amp; Pricing</a></li><li><a href="/login">Login</a></li><li><a href="/forgot_password">Forgot Password</a></li></ul></div><div class="style-module__linkList___1rsFw"><ul><li>Company</li><li><a href="https://magoosh.com">Company Home</a></li><li><a href="https://magoosh.com/partner-with-us">Partner With Us</a></li><li><a href="mailto:help@magoosh.com">help@magoosh.com</a></li></ul></div><div class="style-module__linkList___1rsFw"><ul><li>Follow Us</li><li><a href="https://www.youtube.com/@magooshielts6799">YouTube</a></li><li><a href="https://magoosh.com/ielts">Blog</a></li></ul></div></div></div><div class="d-flex flex-column flex-lg-row gap-m u-margin-T-l"><div class="flex-none text-inter" style="color:#C8BDD6;font-size:12px">© 2026 Magoosh</div><div class="d-flex flex-1 justify-content-end text-inter" style="color:#C8BDD6;font-size:12px">Test names and other trademarks are the property of the respective trademark holders. None of the trademark holders are affiliated with Magoosh or this website.</div></div></div></div></div></div></div></div>
+<script src="https://d296n67kxwq0ge.cloudfront.net/assets/marketing-9a3153077dcad571e5c8db6c19e0d1ec1567a015b98cd2b5c4725f5af7ea5fff.js"></script>
+<script src="https://d296n67kxwq0ge.cloudfront.net/packs/js/marketing-167ecaa4630dae99ab76.js" defer="defer"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', "UA-9161165-27", 'auto', {allowLinker: true});
+// Create second tracker object for Magoosh.com account. Setup details here:
+// (note, the syntax on the post is outdated)
+// https://www.optimizesmart.com/using-multiple-trackers-for-cross-domain-tracking-in-universal-analytics/
+ga('create', 'UA-9161165-1', 'auto', 'MagooshRoot', {allowLinker: true});
+ga('require', 'linker');
+ga('MagooshRoot.require', 'linker');
+ga('linker:autoLink', ['magoosh.com'], true);
+ga('MagooshRoot.linker:autoLink', ['magoosh.com'], true);
+ga('send', 'pageview');
+// Track the view in Magoosh.com as well
+ga('MagooshRoot.send', 'pageview');
+
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  // Single shared account
+  _gaq.push(['_setAccount', 'UA-9161165-30']);
+  _gaq.push(['_trackPageview']);
+
+  // TODO: self host the ga.js script
+  (function() {
+    var old_ga = document.createElement('script'); old_ga.type = 'text/javascript'; old_ga.async = true;
+    old_ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(old_ga, s);
+  })();
+
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDKF3SN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script type='text/javascript'>
+  var id = '';
+  var emailHash = '';
+
+
+  window.userData = {
+    id: id,
+    emailHash: emailHash
+  }
+</script>
+
+<!-- start Mixpanel -->
+<script type="text/javascript">
+(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+
+mixpanel.init("13ebccfb202485c7f086d7367e1aef55", {
+  cross_subdomain_cookie: true,
+  track_pageview: false,
+  loaded: function(){
+
+
+    // Send these properties for anonymous also
+    var core_product_event_name = "(New) Core IELTS General Training  product viewed";
+    var core_view_count = mixpanel.get_property(core_product_event_name) || 0;
+    var properties = {};
+    // Core product views don't include any builder, flashcards, or forum pages
+      properties[core_product_event_name] = core_view_count + 1;
+
+    /// UTM Stuff ///
+    // https://mixpanel.com/blog/2015/05/11/community-tip-last-touch-utm-tags/
+    function getQueryParam(url, param) {
+      // Expects a raw URL
+      param = param.replace(/[[]/, "\[").replace(/[]]/, "\]");
+      var regexS = "[\?&]" + param + "=([^&#]*)",
+          regex = new RegExp( regexS ),
+          results = regex.exec(url);
+      if (results === null || (results && typeof(results[1]) !== 'string' && results[1].length)) {
+        return '';
+      } else {
+        return decodeURIComponent(results[1]).replace(/\W/gi, ' ');
+      }
+    };
+
+    function campaignParams() {
+      var campaign_keywords = 'utm_source utm_medium utm_campaign utm_content utm_term'.split(' ')
+          , kw = ''
+          , params = {};
+
+      var index;
+      for (index = 0; index < campaign_keywords.length; ++index) {
+        kw = getQueryParam(document.URL, campaign_keywords[index]);
+        if (kw.length) {
+          params[campaign_keywords[index] + '_last'] = kw;
+        }
+      }
+
+      mixpanel.register(params);
+    }
+
+    campaignParams();
+
+    // Track all page views except practice and lessons for GRE/GMAT
+    // This ERB string variable will be set to "1" or an empty string
+    var mixpanel_should_track = "false" != "1";
+
+    // Track practice and lessons page views only when it's the first time or we don't yet have the magoosh_id recorded
+    if (mixpanel_should_track || core_view_count === 0 || !magoosh_id) {
+      // Only update super properties when an event is sent
+      mixpanel.register(properties);
+      const eventProperties = {
+          host: location.hostname,
+          path: location.pathname
+      }
+      mixpanel.track("Page Viewed", eventProperties);
+    }
+  }
+});
+</script>
+<!-- end Mixpanel -->
+
+
+
+<script defer src='https://js.stripe.com/v3/'></script>
+
+
+
+</body>
+</html>
