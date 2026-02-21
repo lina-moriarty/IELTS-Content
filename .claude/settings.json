@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/Users/shanedoherty/Sites/IELTS-Content/source-material",
+      "/Users/shanedoherty/Sites/IELTS-Content/source-material/ielts-sample-papers/Academic Writing",
+      "/Users/shanedoherty/Sites/IELTS-Content/source-material/ielts-sample-papers/General Training Writing",
+      "/Users/shanedoherty/Sites/IELTS-Content/source-material/ielts-sample-papers/Speaking"
+    ]
+  }
+}
