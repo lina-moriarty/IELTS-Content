@@ -1,10 +1,22 @@
 {
   "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(brew list:*)",
+      "Read(//usr/local/**)",
+      "Bash(pip3 list:*)",
+      "Bash(brew install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(/Users/shanedoherty/Sites/IELTS-Content/.venv/bin/pip install:*)",
+      "Bash(pdftotext:*)",
+      "Bash(/Users/shanedoherty/Sites/IELTS-Content/.venv/bin/python:*)"
+    ],
     "additionalDirectories": [
       "/Users/shanedoherty/Sites/IELTS-Content/source-material",
       "/Users/shanedoherty/Sites/IELTS-Content/source-material/ielts-sample-papers/Academic Writing",
       "/Users/shanedoherty/Sites/IELTS-Content/source-material/ielts-sample-papers/General Training Writing",
-      "/Users/shanedoherty/Sites/IELTS-Content/source-material/ielts-sample-papers/Speaking"
+      "/Users/shanedoherty/Sites/IELTS-Content/source-material/ielts-sample-papers/Speaking",
+      "/Users/shanedoherty/Sites/IELTS-Content/extracted-text/{listening,reading/academic,reading/general-training,writing/academic,writing"
     ]
   }
 }

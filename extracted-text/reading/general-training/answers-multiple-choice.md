@@ -1,0 +1,8 @@
+Sample General Training Reading Multiple Choice
+Answers
+
+
+ 1-2   plenty of capital to purchase what it didn’t have
+
+       well-written narratives
+

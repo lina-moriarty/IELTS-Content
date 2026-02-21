@@ -1,0 +1,9 @@
+Sample Listening Multiple Choice (more than one answer)
+
+Answers:
+
+1-3   IN ANY ORDER
+1     book reservations
+2     location of rooms
+3     café
+

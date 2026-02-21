@@ -1,0 +1,8 @@
+Sample Listening Multiple Choice (one answer)
+
+Answers:
+
+1    She wanted to understand her own background.
+2    interviews
+3    organising what she had collected
+
